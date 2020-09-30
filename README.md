@@ -1,4 +1,4 @@
-# Intern-and-Placement-CCD-Portal
+# Intern-and-Placement-CCD-Portal - A Project based on Django
 CCD Diary Portal
 
 This is CCD's Diary Portal used during Internships as well as Placements. 
